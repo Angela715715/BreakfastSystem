@@ -16,7 +16,9 @@ hhhhhhhhhhhhhhh
 
 [講義](doc/印出.pdf)
 
-![bear]()
+![bear](pic/bear.png)
+
+
 
 
 
